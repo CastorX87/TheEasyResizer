@@ -1,0 +1,10 @@
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\bin\Debug\TheEasyResizer.exe.config
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\bin\Debug\TheEasyResizer.exe
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\bin\Debug\TheEasyResizer.pdb
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.EasyResizerMainForm.resources
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.Properties.Resources.resources
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.csproj.GenerateResource.Cache
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.exe
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.pdb
+c:\users\castor\documents\visual studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.csprojResolveAssemblyReference.cache
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Debug\TheEasyResizer.ConvProfileOptionsForm.resources

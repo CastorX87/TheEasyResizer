@@ -1,0 +1,2 @@
+Starting conversion on 1 threads.
+Thread reporting with ID: 0x0003

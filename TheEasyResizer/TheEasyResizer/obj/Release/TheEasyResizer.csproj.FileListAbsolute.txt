@@ -1,0 +1,10 @@
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\bin\Release\TheEasyResizer.exe.config
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\bin\Release\TheEasyResizer.exe
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\bin\Release\TheEasyResizer.pdb
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.csprojResolveAssemblyReference.cache
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.ConvProfileOptionsForm.resources
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.EasyResizerMainForm.resources
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.Properties.Resources.resources
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.csproj.GenerateResource.Cache
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.exe
+C:\Users\Castor\Documents\Visual Studio 2015\Projects\TheEasyResizer\TheEasyResizer\obj\Release\TheEasyResizer.pdb

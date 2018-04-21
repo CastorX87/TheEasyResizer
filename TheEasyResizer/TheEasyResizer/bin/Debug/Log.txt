@@ -1,0 +1,18 @@
+Starting conversion on 1 threads.
+Thread reporting with ID: 0x0003
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08762.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08773.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08774.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08718.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08722.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08734.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08741.JPG
+[0x0003] Processing file
+[0x0003] Analyzing input file: C:\Users\Castor\Pictures\KameraKépek\2018. 04. 19\DSC08748.JPG
+[0x0003] Processing file
